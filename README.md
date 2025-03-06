@@ -15,6 +15,3 @@ Model performansı, sağlam ve güvenilir tahminler sağlamak için doğruluk, k
 
 Öğrenme Deneyimi
 Müşteriyi elde tutma stratejileri için makine öğrenimi tekniklerini uygulama ve değerli iş içgörüleri elde etme konusunda uygulamalı deneyim kazandı.
-
-
-Translated with www.DeepL.com/Translator (free version)
