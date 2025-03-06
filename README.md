@@ -12,6 +12,3 @@ Yaygınlığı tahmin etmek ve model performansını artırmak için bir gradyan
 
 Değerlendirme
 Model performansı, sağlam ve güvenilir tahminler sağlamak için doğruluk, kesinlik, geri çağırma ve F1 puanı gibi ölçütler kullanılarak değerlendirilmiştir.
-
-Öğrenme Deneyimi
-Müşteriyi elde tutma stratejileri için makine öğrenimi tekniklerini uygulama ve değerli iş içgörüleri elde etme konusunda uygulamalı deneyim kazandı.
